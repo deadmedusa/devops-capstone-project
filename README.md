@@ -1,7 +1,9 @@
-# DevOps Capstone Template
+# devops-capstone-project
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
+
+This project is a RESTful microservice for managing customer accounts, developed as the capstone project for the IBM DevOps and Software Engineering Professional Certificate. It implements full CRUD operations (Create, Read, Update, Delete, List) for the Account resource, following Test-Driven Development practices with a minimum of 95% code coverage. The service is built with Python and Flask, uses PostgreSQL for data persistence, and supports containerized deployment through Docker and Kubernetes/OpenShift, with CI/CD pipelines implemented using Tekton.
 
 This repository contains the starter code for the project in [**IBM-CD0285EN-SkillsNetwork DevOps Capstone Project**](https://www.coursera.org/learn/devops-capstone-project?specialization=devops-and-software-engineering) which is part of the [**IBM DevOps and Software Engineering Professional Certificate**](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
 
